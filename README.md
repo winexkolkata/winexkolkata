@@ -71,9 +71,7 @@ I am a **T-Shaped** web developer, Love to contribute to open source projects, a
 <!-- BLOG-POST-LIST:END -->
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Winex-Kolkata&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Winex-Kolkata&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Winex-Kolkata&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+###
 
 <!---
 Rahul-Yadav/Rahul-Yadav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
